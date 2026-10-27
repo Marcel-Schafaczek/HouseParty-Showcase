@@ -1,0 +1,69 @@
+{
+  "fill" : {
+    "linear-gradient" : [
+      "display-p3:0.93408,0.50439,0.19373,1.00000",
+      "display-p3:0.90771,0.31641,0.33765,1.00000"
+    ],
+    "orientation" : {
+      "start" : {
+        "x" : 0.5,
+        "y" : 0
+      },
+      "stop" : {
+        "x" : 0.5,
+        "y" : 0.7
+      }
+    }
+  },
+  "groups" : [
+    {
+      "blur-material" : null,
+      "layers" : [
+        {
+          "glass" : true,
+          "hidden" : false,
+          "image-name-specializations" : [
+            {
+              "value" : "HousePartyAppIcon 2.png"
+            },
+            {
+              "appearance" : "light",
+              "value" : "HousePartyAppIconDefault.png"
+            },
+            {
+              "appearance" : "dark",
+              "value" : "HousePartyAppIconDark.png"
+            },
+            {
+              "appearance" : "tinted",
+              "value" : "HousePartyAppIconDefault.png"
+            }
+          ],
+          "name" : "HousePartyDark",
+          "position" : {
+            "scale" : 0.4,
+            "translation-in-points" : [
+              0,
+              0
+            ]
+          }
+        }
+      ],
+      "lighting" : "individual",
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "specular" : true,
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.3
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "squares" : [
+      "iOS"
+    ]
+  }
+}
