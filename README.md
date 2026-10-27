@@ -13,4 +13,4 @@ Swift · SwiftUI · Firebase · SpotifyAPI · KeychainAccess
 
 Note
 
-This is a portfolio showcase. Sensitive configuration and backend credentials are intentionally excluded.
+This is a portfolio showcase and still work in progress. Sensitive configuration and backend credentials are intentionally excluded.
