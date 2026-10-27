@@ -9,11 +9,7 @@ Features
 - Real-time synchronization using Firebase Firestore
 Tech Stack
 
-Swift · SwiftUI · Firebase · SpotifyWebAPI · MVVM
-
-Architecture
-
-The application uses MVVM to separate UI presentation from business logic.
+Swift · SwiftUI · Firebase · SpotifyAPI · KeychainAccess
 
 Note
 
